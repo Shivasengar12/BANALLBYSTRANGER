@@ -1,7 +1,7 @@
 ### 🌷𝐕𝐈𝐒𝐈𝐓𝐎𝐑𝐒🌷
 
 <!--
-**itszshivam/itszshivam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**http_shivaaa/http_shivaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 <p align="center">
@@ -25,5 +25,5 @@
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/itszshivam/BanallBot)
 
 # Credits
-* [SHIVAM](https://github.com/itszshivam)
-* [Lonami](https://github.com/LonamiWebs/) for [Telethon.](https://github.com/LonamiWebs/Telethon)
+* [STRANGER] ( https://t.me/mastiwithfriendsx )
+*  
